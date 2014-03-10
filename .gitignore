@@ -1,3 +1,10 @@
+# Project files
+config.ini
+.vagrant
+*.csv
+
+
+# Python JIT files
 *.py[cod]
 
 # C extensions
